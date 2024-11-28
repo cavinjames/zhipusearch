@@ -1,0 +1,4 @@
+selenium>=4.0.0
+beautifulsoup4>=4.9.3
+zhipuai>=0.1.0
+requests>=2.25.1
